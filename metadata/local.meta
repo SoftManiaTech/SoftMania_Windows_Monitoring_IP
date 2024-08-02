@@ -1,0 +1,12 @@
+[app/ui]
+version = 9.2.0
+modtime = 1722479032.276084000
+
+[app/launcher]
+version = 9.2.0
+modtime = 1722479032.277393000
+
+[indexes/softmania_windows_monitoring_idx]
+owner = admin
+version = 9.2.0
+modtime = 1722479139.960322000
