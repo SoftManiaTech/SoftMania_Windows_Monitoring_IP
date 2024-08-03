@@ -10,3 +10,10 @@ modtime = 1722479032.277393000
 owner = admin
 version = 9.2.0
 modtime = 1722479139.960322000
+
+[views/softmania_windows_monitoring_dashboard]
+access = read : [ * ], write : [ * ]
+export = none
+owner = admin
+version = 9.2.0
+modtime = 1722688495.352930000
